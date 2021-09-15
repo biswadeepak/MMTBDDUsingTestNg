@@ -1,0 +1,7 @@
+com\qa\pages\FlightsPage.class
+com\qa\util\TestUtil.class
+com\qa\pages\HomePage.class
+com\qa\util\TestBase.class
+com\qa\stepDefinations\HotelList.class
+com\qa\pages\HotelsPage.class
+com\qa\stepDefinations\Bookflight.class
